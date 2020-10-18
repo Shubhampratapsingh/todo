@@ -8,7 +8,7 @@
 Steps to run On Local system:
 1. Download zip file of code.
 2. Extract.
-3. Go to that folder with cd <folderName>.
+3. Go to that folder with cd folderName.
 4. Write npm install and press enter
 5. npm start.
 6. If it gives error it means system is using node version less than v8.17.0. You can use nvm use v8.17.0.
