@@ -1,6 +1,6 @@
 # todo
 
-1. Todo App to add task, mark as complete , edit and delete.
+1. Todo App to add task, mark as complete , edit and delete build using React and Hooks.
 2. Clicking on checkbox with automatically mark it as complete.
 3. On hover on list will show buttons to edit or delete the task.
 4. Clicking on All button will show all the list of tasks, active button will show list which is active and completed button will show list which is marked as    completed.
