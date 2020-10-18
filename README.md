@@ -3,9 +3,9 @@
 1. Todo App to add task, mark as complete , edit and delete.
 2. Clicking on checkbox with automatically mark it as complete.
 3. On hover on list will show buttons to edit or delete the task.
-4. Clicking on All button will show all the list of tasks, active button will show list which is active and completed button will show list which is mark as    completed.
+4. Clicking on All button will show all the list of tasks, active button will show list which is active and completed button will show list which is marked as    completed.
 
-Running On Local system:
+Steps to run On Local system:
 1. Download zip file of code.
 2. Extract.
 3. Go to that folder with cd <folderName>.
